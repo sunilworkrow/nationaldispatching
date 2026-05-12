@@ -16,7 +16,7 @@ function TrustedBy() {
         {/* TITLE */}
         <div className="text-center mb-[34px]">
           <p className="text-[#fee126] text-[14px] font-semibold tracking-[1px] uppercase">
-            Affiliations & Certifications
+            Accreditations
           </p>
         </div>
 
