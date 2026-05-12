@@ -36,7 +36,7 @@ function CTASection() {
 
                                 {/* DEMO */}
                                 <button className="px-5 py-2 rounded-full bg-black text-white text-[14px] font-[500] hover:bg-white hover:text-black transition-all duration-300 cursor-pointer">
-                                    Book a demo
+                                    Book A Rental
                                 </button>
 
                             </div>
