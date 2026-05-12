@@ -16,7 +16,7 @@ function TrustedBy() {
         {/* TITLE */}
         <div className="text-center mb-[34px]">
           <p className="text-[#fee126] text-[14px] font-semibold tracking-[1px] uppercase">
-            Trusted By
+            Affiliations & Certifications
           </p>
         </div>
 
@@ -34,7 +34,7 @@ function TrustedBy() {
                 <img
                   src={logo}
                   alt="logo"
-                  className="h-[82px] w-[150px] object-contain opacity-90 brightness-0 invert"
+                  className="h-[75px] w-[131px] object-contain opacity-90 brightness-0 invert"
                 />
               </div>
             ))}
