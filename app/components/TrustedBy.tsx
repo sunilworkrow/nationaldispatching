@@ -1,11 +1,11 @@
 import React from 'react'
 
 const logos = [
-  'https://tenderd.com/wp-content/uploads/2025/04/APMH.png',
-  'https://tenderd.com/wp-content/uploads/2025/04/IFFCO-LOGO-1.png',
-  'https://tenderd.com/wp-content/uploads/2025/04/NMDC-Group-1-scaled.png',
-  'https://tenderd.com/wp-content/uploads/2025/04/mcDermott-white-logo.svg',
-  'https://tenderd.com/wp-content/uploads/2025/04/sixco.png',
+  'https://nationaldispatching.com/wp-content/uploads/2021/04/certificate-1.png',
+  'https://nationaldispatching.com/wp-content/uploads/elementor/thumbs/certificate-2-q1ukozd0335hckpf9ixq7f71ptzea07v1591eykw2g.png',
+  'https://nationaldispatching.com/wp-content/uploads/2021/04/certificate-4.png',
+  'https://nationaldispatching.com/wp-content/uploads/2021/04/certificate-5.png',
+  'https://nationaldispatching.com/wp-content/uploads/2021/04/certificate-6.png',
 ]
 
 function TrustedBy() {
